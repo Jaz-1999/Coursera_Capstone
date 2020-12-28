@@ -1,0 +1,24 @@
+Capstone Project — The Battle of Neighbourhoods
+
+INTRODUCTION
+New York City is the most populous city in United States and one of the important cities in the world. 
+It is the cultural, financial and media capital of the world. It influences many domains like fashion, education, politics, trade and commerce, entertainment, tourism, art and sports.
+It is composed of five boroughs Brooklyn, Queens, Manhattan, The Bronx and Staten Island.
+Manhattan is the smallest and most densely populated borough. NYC is a home to several ethnicities of which the Indians constitute one of the largest and fastest growing ethnicities.The Asian Indian population has been growing rapidly.
+NYC is a home to several restaurants ranging from family owned to Michelin starred restaurants. Of these there are a good number of Indian restaurants too. You can definitely take out but having food in the restaurant has its own experience.
+
+My Project is going to deal with scenarios related to the Indian restaurant industry in NYC. Say a person wants to start a new Indian restaurant. Obviously, there are several factors that a person needs to consider in addition to the budget.  The most import is the location. Some of the factors to consider while choosing  the location are
+1.	Best to open the new restaurant away from already highly successful restaurants.
+2.	Best to open restaurants near famous sites like tourist sites, transit hubs, parks etc since it can attract more people.
+3.	Identifying work districts to attract office goers for lunch/dinner
+Also consider the tourists. Tourists are often lost in a big city. It would be helpful for the tourism companies to obtain some statistics information and provide to their customers.
+So, this project will produce a report which will study and analyze some locations in NYC and provide valuable information regarding restaurants. This information can be used by the relevant stakeholders. Tourism companies, business owners planning to open restaurants are some of the few stakeholders.
+
+DATA DESCRIPTION
+We will be using the following data 
+o	Fousquare API : which provides us useful information about venues for analysis
+o	https://cocl.us/new_york_dataset: provides information on New York city boroughs
+o	https://en.wikipedia.org/wiki/List_of_Manhattan_neighborhoods:Provides information about Manhattan Neighborhoods
+
+
+
